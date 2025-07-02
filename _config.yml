@@ -6,12 +6,18 @@ description: >
   From student success tips and parenting advice to effective teaching and tutoring strategies — there's something here for everyone.
 
 email: "admin@tutorgp.com"
+whatsapp_number: "+447526568429"
 facebook_username: "Tutor-GP"
 instagram_username: "tutor_gp"
 linkedin_username: "tutor-gp-210889290"
 twitter_username: "tutorgpofficial"
 github_username: "tutorgp"
 youtube_username: "TutorGP"
+
+location:
+  name: "Tutor GP"
+  address: "Blackfen Road, Sidcup, London, DA15 9NJ"
+  google_maps_link: "https://maps.app.goo.gl/Hm9d28HiSC9d6VQm8"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
