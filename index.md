@@ -1,4 +1,4 @@
-# 🎓 Get Results with Our UK-Qualified & Expert STEM Teachers  
+# 🎓 Get Results with Our UK-Qualified and Expert STEM Teachers  
 ## 🚀 Best Online Tutor Service
 
 Unlock Academic Excellence with Our Proven Online Tutoring Service –  
@@ -57,31 +57,31 @@ Unlock Academic Excellence with Our Proven Online Tutoring Service –
 
 We offer high-quality, UK-based **STEM tutoring online** for individuals and groups:
 
-### 🏫 School Entrance Exams
+### 🏫 **School Entrance Exams**
 - 11 Plus Exam Preparation
 
-### 🔬 KS3 (Key Stage 3)
+### 🔬 **KS3 (Key Stage 3)** 
 - Science & Maths Tuition
 
-### 📘 KS4 (GCSE)
+### 📘 **KS4 (GCSE)**
 - GCSE Science, Physics, Chemistry, Biology, and Maths Tuition
 
-### 🌍 iGCSE
+### 🌍 **iGCSE/O-levels**
 - iGCSE Science, Physics, Chemistry, Biology, and Maths Tuition
 
-### 🎓 KS5 (A-levels)
+### 🎓 **KS5 (A-levels)**
 - A-level Maths, Physics, Chemistry, and Biology Tuition
 
-### 🏴 Scottish Curriculum
+### 🏴 **Scottish Curriculum**
 - S1–S4, Nationals 4 & 5, Advanced Highers (Science, Maths & Engineering)
 
-### 🌐 International Baccalaureate (IB)
+### 🌐 **International Baccalaureate (IB)**
 - Science & Maths Tuition
 
-### 🧑‍🔬 T-levels
+### 🧑‍🔬 **T-levels**
 - Maths, Science, and Engineering Tuition
 
-### 🔧 BTEC
+### 🔧 **BTEC**
 - Engineering, Science, Physics, Chemistry, Biology, and Maths Tuition
 
 We are passionate about nurturing a love of learning and helping students excel in STEM.
