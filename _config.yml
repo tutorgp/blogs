@@ -1,19 +1,20 @@
 title: "Tutor GP Blogs"
 author: "Muhammad Siddiqui"
-description: "Welcome to the Tutor GP Blog! Your trusted hub for students, parents, and educators. Explore a rich collection of insightful articles and practical resources designed to support every part of the learning journey. From student success tips and parenting advice to effective teaching and tutoring strategies — there's something here for everyone." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: >
+  Welcome to the Tutor GP Blog! Your trusted hub for students, parents, and educators. 
+  Explore a rich collection of insightful articles and practical resources designed to support every part of the learning journey. 
+  From student success tips and parenting advice to effective teaching and tutoring strategies — there's something here for everyone.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
+
 email: "admin@tutorgp.com"
 twitter_username: "tutorgpofficial"
 github_username: "tutorgp"
-linkedin_username: "https://www.linkedin.com/in/tutor-gp-210889290/"
-facebook_username: "https://www.facebook.com/people/Tutor-GP/61552018987704/"
-#flickr_username: username
-instagram_username: tutor_gp
-#pinterest_username: username
-youtube_username: @TutorGP
-#googleplus_username: +username
+linkedin_username: "tutor-gp-210889290"
+facebook_username: "Tutor-GP"
+instagram_username: "tutor_gp"
+youtube_username: "TutorGP"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
