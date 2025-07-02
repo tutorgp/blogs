@@ -7,7 +7,6 @@ description: >
 
 email: "admin@tutorgp.com"
 whatsapp_number: "+447526568429"
-
 facebook_username: "Tutor-GP"
 instagram_username: "tutor_gp"
 linkedin_username: "tutor-gp-210889290"
@@ -19,13 +18,6 @@ location:
   name: "Tutor GP"
   address: "Blackfen Road, Sidcup, London, DA15 9NJ"
   google_maps_link: "https://maps.app.goo.gl/Hm9d28HiSC9d6VQm8"
-
-theme: "minima"
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
