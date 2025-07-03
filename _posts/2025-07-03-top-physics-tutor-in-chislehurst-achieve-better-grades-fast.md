@@ -4,7 +4,7 @@ title: "Top physics tutor in Chislehurst – Achieve Better Grades Fast"
 date: 2025-07-03
 ---
 
-![Top physics tutor in Chislehurst – Achieve Better Grades Fast](/blogs/assets/images/Master-A-Level-Physics-with-Personalised-Tuition-in-Sidcup.jpg)
+![Top physics tutor in Chislehurst – Achieve Better Grades Fast](blogs/blob/main/assets/images/Master-A-Level-Physics-with-Personalised-Tuition-in-Sidcup.jpg)
 
 # Top Physics Tutor in Chislehurst 🎓🚀 Achieve Better Grades Fast 📈
 
