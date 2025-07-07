@@ -94,18 +94,29 @@ We are passionate about nurturing a love of learning and helping students excel 
 ## Your Single-Source Solution For Global STEM Specialist Tutoring
 
 ### "Countries And Exam Boards We Cover"
-| 📚 **Exam Boards**                        | 🌍 **Global Reach**           |
-|------------------------------------------|-------------------------------|
-| **AQA** (Assessment and Qualifications Alliance) | **UK**                        |
-| **Edexcel** (Pearson Edexcel)            | **Australia**                 |
-| **OCR** (Oxford Cambridge and RSA Examinations) | **Canada**                    |
-| **WJEC** (Welsh Joint Education Committee) | **America**                   |
-| **CCEA** (Council for the Curriculum, Examinations, and Assessment) | **Singapore**       |
-| **SQA** (Scottish Qualifications Authority) | **Malaysia**                  |
-|                                          | **United Arab Emirates (UAE)**|
-|                                          | **Saudi Arabia**              |
-|                                          | **Oman**                      |
-|                                          | **Qatar**                     |
+### 📚 Exam Boards
+
+- **AQA** (Assessment and Qualifications Alliance)  
+- **Edexcel** (Pearson Edexcel)  
+- **OCR** (Oxford Cambridge and RSA Examinations)  
+- **WJEC** (Welsh Joint Education Committee)  
+- **CCEA** (Council for the Curriculum, Examinations, and Assessment)  
+- **SQA** (Scottish Qualifications Authority)
+
+---
+
+### 🌍 Global Reach
+
+- 🇬🇧 **UK**  
+- 🇦🇺 **Australia**  
+- 🇨🇦 **Canada**  
+- 🇺🇸 **America**  
+- 🇸🇬 **Singapore**  
+- 🇲🇾 **Malaysia**  
+- 🇦🇪 **United Arab Emirates (UAE)**  
+- 🇸🇦 **Saudi Arabia**  
+- 🇴🇲 **Oman**  
+- 🇶🇦 **Qatar**
 
 ---
 
