@@ -22,6 +22,8 @@ location:
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
+url: "https://tutorgp.github.io"
+
 # ✅ ADD THIS:
 baseurl: "/blogs"
 
@@ -40,6 +42,16 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag   # ✅ Add this line
+
+social:
+  name: Tutor GP
+  links:
+    - https://facebook.com/tutorgpofficial
+    - https://twitter.com/tutorgpofficial
+    - https://instagram.com/tutor_gp
+    - https://linkedin.com/in/tutor-gp-210889290
+    - https://github.com/tutorgp
+    - https://youtube.com/@TutorGP
 
 titles_from_headings:
   strip_title: true
