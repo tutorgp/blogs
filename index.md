@@ -160,9 +160,9 @@ We are passionate about nurturing a love of learning and helping students excel 
 ## 📍 Visit Us or Get in Touch Today!
 
 **📞 Phone/WhatsApp**: +447526 568429  
-**📧 Email**: admin@tutorgp.com (mailto:admin@tutorgp.com)
-**📍 Address**: Blackfen Road, Sidcup, London, DA15 9NJ  
-**🌐 Book Free Consultation**: [https://tutorgp.com/contact-us/](https://tutorgp.com/contact-us/)
+**📧 Email**: [admin@tutorgp.com](mailto:admin@tutorgp.com)    
+**📍 Address**: Blackfen Road, Sidcup, London, DA15 9NJ   
+**🌐 Book Free Consultation**: [https://tutorgp.com/contact-us/](https://tutorgp.com/contact-us/)    
 
 ---
 
@@ -174,4 +174,4 @@ We are passionate about nurturing a love of learning and helping students excel 
 
 ## **Important: Legal Disclaimers
 
-We Don’t Believe In Instant Or Guaranteed Result Programs. We Believe In Hard Work, Adding Value And Serving Others. And That’s What Our Programs Are Designed To Help You Do. As Stated By Law, We Can Not And Do Not Make Any Guarantees About Your Own Ability To Get Results With Our Ideas, Information, Programs Or Strategies. We Don’t Know You And, Besides, Your Results In Life Are Up To You. Agreed? We’re Here To Help By Giving You Our Greatest Strategies To Move You Forward, Faster. However, Nothing On This Page Or Any Of Our Websites Or Emails Is A Promise Or Guarantee Of Future Success. Any Results Showcased Here, Or On Any Of Our Sites Or Emails, Are Simply Projections Or Past Results, And Should Not Be Considered Exact, Actual Or As A Promise. If You Have Questions, Email: admin@tutorgp.com (mailto:admin@tutorgp.com)
+We Don’t Believe In Instant Or Guaranteed Result Programs. We Believe In Hard Work, Adding Value And Serving Others. And That’s What Our Programs Are Designed To Help You Do. As Stated By Law, We Can Not And Do Not Make Any Guarantees About Your Own Ability To Get Results With Our Ideas, Information, Programs Or Strategies. We Don’t Know You And, Besides, Your Results In Life Are Up To You. Agreed? We’re Here To Help By Giving You Our Greatest Strategies To Move You Forward, Faster. However, Nothing On This Page Or Any Of Our Websites Or Emails Is A Promise Or Guarantee Of Future Success. Any Results Showcased Here, Or On Any Of Our Sites Or Emails, Are Simply Projections Or Past Results, And Should Not Be Considered Exact, Actual Or As A Promise. If You Have Questions, Email: [admin@tutorgp.com](mailto:admin@tutorgp.com)
