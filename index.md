@@ -159,7 +159,9 @@ We are passionate about nurturing a love of learning and helping students excel 
 
 ## 📍 Visit Us or Get in Touch Today!
 
-**📞 Phone/WhatsApp**: +447526 568429  
+**🏠 Visit our Homepage:** [https://tutorgp.com/](https://tutorgp.com/)    
+**👉 Contact us for availability:** [https://tutorgp.com/contact-us/](https://tutorgp.com/contact-us/)    
+**📞 Phone/WhatsApp**: +447526 568429     
 **📧 Email**: [admin@tutorgp.com](mailto:admin@tutorgp.com)    
 **📍 Address**: Blackfen Road, Sidcup, London, DA15 9NJ   
 **🌐 Book Free Consultation**: [https://tutorgp.com/contact-us/](https://tutorgp.com/contact-us/)    
@@ -168,7 +170,19 @@ We are passionate about nurturing a love of learning and helping students excel 
 
 ## 🗺️ Our Location on Google Maps
 
-📍 [View Us on Google Maps](https://maps.app.goo.gl/Hm9d28HiSC9d6VQm8)
+📍 [View Us on Google Maps](https://maps.app.goo.gl/Hm9d28HiSC9d6VQm8)    
+
+**OR**    
+
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.4784087263315!2d0.10917747595768887!3d51.4493722149417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8af67068726f1%3A0xafa1fa414da0166b!2sTutor%20GP!5e0!3m2!1sen!2suk!4v1749126828174!5m2!1sen!2suk" 
+  width="600" 
+  height="450" 
+  style="border:0;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
 
 ---
 
