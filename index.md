@@ -1,4 +1,4 @@
-# 🎓 Get Results in 16 weeks** with Our UK-Qualified and Expert STEM Teachers 📜
+# 🎓 Get Results in 16 weeks** with Our UK-Qualified Expert STEM Teachers 📜
 ## 🚀 Best Online Science and Maths Tutoring Service in London 🎡
 
 Unlock Academic Excellence with Our Proven Online Tutoring Service –  
