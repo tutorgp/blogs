@@ -22,6 +22,12 @@ location:
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
+# ✅ ADD THIS:
+baseurl: "/blogs"
+
+# ✅ ADD THIS:
+permalink: /:year/:month/:day/:title.html
+
 theme: "minima"
 
 rss: rss
