@@ -94,7 +94,7 @@ We are passionate about nurturing a love of learning and helping students excel 
 ## Your Single-Source Solution For Global STEM Specialist Tutoring
 
 ### "Countries And Exam Boards We Cover"
-### 📚 Exam Boards
+### 📚 **Exam Boards**
 
 - **AQA** (Assessment and Qualifications Alliance)  
 - **Edexcel** (Pearson Edexcel)  
@@ -105,7 +105,7 @@ We are passionate about nurturing a love of learning and helping students excel 
 
 ---
 
-### 🌍 Global Reach
+### 🌍 **Global Reach**
 
 - **UK**  
 - **Australia**  
