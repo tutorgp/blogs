@@ -107,17 +107,16 @@ We are passionate about nurturing a love of learning and helping students excel 
 
 ### 🌍 Global Reach
 
-- 🇬🇧 **UK**  
-- 🇦🇺 **Australia**  
-- 🇨🇦 **Canada**  
-- 🇺🇸 **America**  
-- 🇸🇬 **Singapore**  
-- 🇲🇾 **Malaysia**  
-- 🇦🇪 **United Arab Emirates (UAE)**  
-- 🇸🇦 **Saudi Arabia**  
-- 🇴🇲 **Oman**  
-- 🇶🇦 **Qatar**
-
+- **UK**  
+- **Australia**  
+- **Canada**  
+- **America**  
+- **Singapore**  
+- **Malaysia**  
+- **United Arab Emirates (UAE)**  
+- **Saudi Arabia**  
+- **Oman**  
+- **Qatar**
 ---
 
 ## 🌟 Why People Choose Our Online Tutoring Service
