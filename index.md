@@ -1,5 +1,5 @@
-# 🎓 Get Results with Our UK-Qualified and Expert STEM Teachers  
-## 🚀 Best Online Tutor Service
+# 🎓 Get Results in 16 weeks** with Our UK-Qualified and Expert STEM Teachers 📜
+## 🚀 Best Online Science and Maths Tutor Service in London 🎡
 
 Unlock Academic Excellence with Our Proven Online Tutoring Service –  
 **Boost Your Science and Maths Grades by 3–4 Levels or Achieve an A* in 16–28 Weeks**.
@@ -43,7 +43,7 @@ Unlock Academic Excellence with Our Proven Online Tutoring Service –
 — **Noah Clarke**, GCSE Science & Maths
 
 > *“TutorGP helped me achieve great results in A-level physics, chemistry, biology, and maths. Highly recommended.”*  
-— **William Johnson**, A-levels
+— **William Johnson**, A-levels physics, chemistry, biology, and maths
 
 > *“Great personal attention and support. Significant improvement in exam scores.”*  
 — **Robert Hughes**, GCSE Science
@@ -137,3 +137,9 @@ We are passionate about nurturing a love of learning and helping students excel 
 ## 🗺️ Our Location on Google Maps
 
 📍 [View Us on Google Maps](https://maps.app.goo.gl/Hm9d28HiSC9d6VQm8)
+
+---
+
+## **Important: Legal Disclaimers
+
+We Don’t Believe In Instant Or Guaranteed Result Programs. We Believe In Hard Work, Adding Value And Serving Others. And That’s What Our Programs Are Designed To Help You Do. As Stated By Law, We Can Not And Do Not Make Any Guarantees About Your Own Ability To Get Results With Our Ideas, Information, Programs Or Strategies. We Don’t Know You And, Besides, Your Results In Life Are Up To You. Agreed? We’re Here To Help By Giving You Our Greatest Strategies To Move You Forward, Faster. However, Nothing On This Page Or Any Of Our Websites Or Emails Is A Promise Or Guarantee Of Future Success. Any Results Showcased Here, Or On Any Of Our Sites Or Emails, Are Simply Projections Or Past Results, And Should Not Be Considered Exact, Actual Or As A Promise. If You Have Questions, Email: admin@tutorgp.com
