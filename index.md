@@ -115,7 +115,7 @@ We are passionate about nurturing a love of learning and helping students excel 
 - **Malaysia**  
 - **United Arab Emirates (UAE)**  
 - **Saudi Arabia**  
-- **Oman**
+- **Oman**  
 - **Qatar**
 
 ---
