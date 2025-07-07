@@ -1,4 +1,4 @@
-# 🎓 Get Results in 16 weeks** with Our UK-Qualified Expert STEM Teachers 📜
+# 🎓Get Results in 16 Weeks with UK-Qualified Expert STEM Tutors📜
 ## 🚀 Best Online Science and Maths Tutoring Service in London 🎡
 
 Unlock Academic Excellence with Our Proven Online Tutoring Service –  
@@ -85,6 +85,37 @@ We offer high-quality, UK-based **STEM tutoring online** for individuals and gro
 - Engineering, Science, Physics, Chemistry, Biology, and Maths Tuition
 
 We are passionate about nurturing a love of learning and helping students excel in STEM.
+
+---
+# Your Single-Source Solution For Global STEM Specialist Tutoring
+
+## "Countries And Exam Boards We Cover"
+
+---
+
+## 📚 Exam Boards
+
+- **AQA** (Assessment and Qualifications Alliance)  
+- **Edexcel** (Pearson Edexcel)  
+- **OCR** (Oxford Cambridge and RSA Examinations)  
+- **WJEC** (Welsh Joint Education Committee)  
+- **CCEA** (Council for the Curriculum, Examinations, and Assessment)  
+- **SQA** (Scottish Qualifications Authority)
+
+---
+
+## 🌍 Global Reach
+
+- **UK**  
+- **Australia**  
+- **Canada**  
+- **America**  
+- **Singapore**  
+- **Malaysia**  
+- **United Arab Emirates (UAE)**  
+- **Saudi Arabia**  
+- **Oman**  
+- **Qatar**
 
 ---
 
