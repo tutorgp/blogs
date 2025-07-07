@@ -1,6 +1,6 @@
 # 🏠 Welcome to Tutor GP – Expert UK-Qualified STEM Tutors
-# 🎓Get Results in 16 Weeks with UK-Qualified Expert STEM Tutors📜
-## 🚀 Best Online Science and Maths Tutoring Service in London 🎡
+## 🎓Get Results in 16 Weeks with UK-Qualified Expert STEM Tutors📜
+### 🚀 Best Online Science and Maths Tutoring Service in London 🎡
 
 Unlock Academic Excellence with Our Proven Online Tutoring Service –  
 **Boost Your Science and Maths Grades by 3–4 Levels or Achieve an A* in 16–28 Weeks**.
