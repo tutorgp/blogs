@@ -28,7 +28,8 @@ url: "https://tutorgp.github.io"
 baseurl: "/blogs"
 
 # ✅ ADD THIS:
-permalink: /:year/:month/:day/:title.html
+permalink: /blogs/:year/:month/:day/:title.html
+
 
 theme: "minima"
 
